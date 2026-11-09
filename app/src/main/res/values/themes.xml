@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Platform theme without action bar; Compose draws everything / 액션바 없는 플랫폼 테마, 화면은 컴포즈가 그림 -->
+    <style name="Theme.TalkCoach" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#7452C0</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+</resources>

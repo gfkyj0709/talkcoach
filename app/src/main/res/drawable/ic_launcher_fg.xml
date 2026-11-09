@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Two speech bubbles (white + lavender) inside the 66dp safe zone / 66dp 안전영역 안의 말풍선 두 개 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Back bubble / 뒤 말풍선 -->
+    <path
+        android:fillColor="#D9CEF5"
+        android:pathData="M50,34h22a8,8 0,0 1,8 8v14a8,8 0,0 1,-8 8h-2v7l-8,-7h-12a8,8 0,0 1,-8 -8v-14a8,8 0,0 1,8 -8z" />
+    <!-- Front bubble / 앞 말풍선 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,44h22a8,8 0,0 1,8 8v14a8,8 0,0 1,-8 8h-12l-8,7v-7h-2a8,8 0,0 1,-8 -8v-14a8,8 0,0 1,8 -8z" />
+    <!-- Dots / 점 세 개 -->
+    <path
+        android:fillColor="#7452C0"
+        android:pathData="M39,59m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0M47,59m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0M55,59m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+</vector>
